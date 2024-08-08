@@ -1,0 +1,13 @@
+img{
+    width: 400px;
+}
+
+#rodape{
+    background-color: rgb(0, 0, 0);
+    color: beige;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+    position: inherit;
+}
